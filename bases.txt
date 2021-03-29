@@ -1,0 +1,3 @@
+Deep Pan=2.0
+Stuffed Crust=1.5
+Thin and Crispy=1.0

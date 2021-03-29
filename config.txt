@@ -1,0 +1,4 @@
+base_time=3000
+no_pizzas=50
+interval=10
+naming=pizza_
