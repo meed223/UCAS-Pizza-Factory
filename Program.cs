@@ -18,8 +18,8 @@ namespace UCAS_Pizza_Factory {
                 if (!Directory.Exists("Pizzas")) {
                     Directory.CreateDirectory("Pizzas");
                 }
-                Pizza.buildToppings();
-                Pizza.buildBases();
+                Factory.buildToppings();
+                Factory.buildBases();
                 // Initialize and start factory
                 Factory pizzaFactory = new Factory(
                     Int32.Parse(configOptions["base_time"]),
