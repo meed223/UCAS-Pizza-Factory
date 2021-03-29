@@ -1,0 +1,16 @@
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.csprojAssemblyReference.cache
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.AssemblyInfoInputs.cache
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.AssemblyInfo.cs
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.csproj.CoreCompileInputs.cache
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\UCAS-Pizza-Factory.exe
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\UCAS-Pizza-Factory.deps.json
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\UCAS-Pizza-Factory.runtimeconfig.json
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\UCAS-Pizza-Factory.runtimeconfig.dev.json
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\UCAS-Pizza-Factory.dll
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\ref\UCAS-Pizza-Factory.dll
+D:\Programming-Projects\UCAS-Pizza-Factory\bin\Debug\net5.0\UCAS-Pizza-Factory.pdb
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.dll
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\ref\UCAS-Pizza-Factory.dll
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.pdb
+D:\Programming-Projects\UCAS-Pizza-Factory\obj\Debug\net5.0\UCAS-Pizza-Factory.genruntimeconfig.cache
